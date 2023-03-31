@@ -1,0 +1,3 @@
+# BlindSearchApp
+
+BlindSearchApp is an Android app built with Flutter that assists blind people in identifying objects around them. It gives the user instructions on how to use the app using speech synthesis, uses speech recognition to capture what the user (a blind person) wants to search in his environment, integrates the EfficientNet model to detect the object and vibrates upon detection of the object. The interaction between the user and the app totally relies on detecting touch gestures (a long press is used to allow the user to capture the name of the object he/she wants the app to look for, a double tap initiates object detection and a tap allows the app to communicate instructions on how to use the app to the user).
